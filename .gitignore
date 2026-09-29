@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+results/
+model-cache/
+report/
+make_assets.py
+fill_report.py
